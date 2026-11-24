@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The Binding of Isaac: Repentance is the ultimate version of Binding of Isaac, featuring all content from the Rebirth, Afterbirth and Afterbirth+ expansions, plus hundreds of new features and improvements. The ultimate edition of the genre-defining roguelike!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: i7 / Rec: i9 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | GeForce 900 Series | Metal-capable GPU |
+| **Storage** | 666 MB available space | 666 MB available space |
+| **Sound Card** | Yes | Yes |
+| **Additional Notes** | ༼つ ◕_◕ ༽つ | ༼つ ◕_◕ ༽つ |
 
 ---
 
